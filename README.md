@@ -7,6 +7,7 @@
 + VUe Router: 管理单页面应用路由
 + webpack: 自动化构建工具，主要配置vue-cli脚手架提供
 + stylus: css预处理语言
++ ES6:框架中常用语法
 + better-scroll: 移动端滚动插件
 
 ## 功能/组件
